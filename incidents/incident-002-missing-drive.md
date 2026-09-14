@@ -39,3 +39,10 @@ The following command was used:
 ```cmd
 diskpart
 list volume
+
+## Evidence
+
+Supporting screenshots:
+
+- [Missing Drive](../evidence/incident-002/missing-drive.png)
+- [Drive Restored](../evidence/incident-002/drive-restored.png)
