@@ -88,6 +88,14 @@ nslookup google.com
 
 successfully returned multiple IP addresses for google.com.
 
+Evidence
+
+Supporting screenshots:
+
+- [DNS Failure](../evidence/incident-001/dns-failure.png)
+
+- [DNS Restored](../evidence/incident-001/dns-restored.png)
+
 Final Status
 
 Resolved ✅
